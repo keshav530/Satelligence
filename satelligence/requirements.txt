@@ -1,0 +1,8 @@
+numpy>=1.24
+Pillow>=10.0
+# not needed for the baseline demo; needed for model + API work
+torch>=2.2
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+pytest>=8.0
